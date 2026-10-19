@@ -1,3 +1,7 @@
+| **Nama** | Qonita Adzkiatul Mardiyah |
+|---|---|
+| **NPM** | G1A023086 |
+
 # Dasbor Interaktif Analitik Penjualan
 
 **Studi Kasus Interaksi Manusia dan Komputer (IMK) & Visualisasi Data**
