@@ -1,0 +1,33 @@
+responden,tugas,berhasil,waktu_detik
+R1,T1 Lihat total omzet 2025,1,19
+R1,T2 Filter wilayah Sumatera + kategori Makanan,1,27
+R1,T3 Temukan bulan omzet tertinggi,1,22
+R1,T4 Unduh data terfilter sebagai CSV,1,64
+R2,T1 Lihat total omzet 2025,1,15
+R2,T2 Filter wilayah Sumatera + kategori Makanan,1,38
+R2,T3 Temukan bulan omzet tertinggi,1,23
+R2,T4 Unduh data terfilter sebagai CSV,1,56
+R3,T1 Lihat total omzet 2025,0,15
+R3,T2 Filter wilayah Sumatera + kategori Makanan,1,23
+R3,T3 Temukan bulan omzet tertinggi,1,28
+R3,T4 Unduh data terfilter sebagai CSV,1,51
+R4,T1 Lihat total omzet 2025,1,17
+R4,T2 Filter wilayah Sumatera + kategori Makanan,1,30
+R4,T3 Temukan bulan omzet tertinggi,1,30
+R4,T4 Unduh data terfilter sebagai CSV,1,42
+R5,T1 Lihat total omzet 2025,1,14
+R5,T2 Filter wilayah Sumatera + kategori Makanan,1,27
+R5,T3 Temukan bulan omzet tertinggi,1,36
+R5,T4 Unduh data terfilter sebagai CSV,1,46
+R6,T1 Lihat total omzet 2025,1,18
+R6,T2 Filter wilayah Sumatera + kategori Makanan,1,35
+R6,T3 Temukan bulan omzet tertinggi,1,18
+R6,T4 Unduh data terfilter sebagai CSV,1,49
+R7,T1 Lihat total omzet 2025,1,27
+R7,T2 Filter wilayah Sumatera + kategori Makanan,1,24
+R7,T3 Temukan bulan omzet tertinggi,1,34
+R7,T4 Unduh data terfilter sebagai CSV,1,56
+R8,T1 Lihat total omzet 2025,1,21
+R8,T2 Filter wilayah Sumatera + kategori Makanan,1,29
+R8,T3 Temukan bulan omzet tertinggi,1,26
+R8,T4 Unduh data terfilter sebagai CSV,1,33
